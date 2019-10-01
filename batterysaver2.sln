@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "batterysaver2", "batterysaver2\batterysaver2.csproj", "{62C603D2-B253-4FF6-B866-7D314BCB8859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C603D2-B253-4FF6-B866-7D314BCB8859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C603D2-B253-4FF6-B866-7D314BCB8859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C603D2-B253-4FF6-B866-7D314BCB8859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C603D2-B253-4FF6-B866-7D314BCB8859}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE126A4D-CFB4-4606-B61C-F07C9C5A3A62}
+	EndGlobalSection
+EndGlobal
