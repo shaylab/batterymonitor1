@@ -10,7 +10,8 @@ namespace batterysaver2
     { 
  Function add(int a,int b){return a+b;
                        }
-
+         Function sub(int a,int b){return a-b;
+                       }
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
